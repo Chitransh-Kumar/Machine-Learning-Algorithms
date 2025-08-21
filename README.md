@@ -17,8 +17,8 @@ Each algorithm includes:
 
 ### 🔹 Linear Models
 - [x] Simple Linear Regression
-<!-- [x] Multiple Linear Regression
-- [x] Gradient Descent (Batch)
+- [x] Multiple Linear Regression
+<!-- [x] Gradient Descent (Batch)
 - [ ] Stochastic Gradient Descent
 - [ ] Mini-Batch Gradient Descent
 - [ ] Ridge Regression
