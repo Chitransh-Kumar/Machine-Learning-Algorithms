@@ -1,19 +1,19 @@
-# 🤖 Machine Learning Algorithms: From Scratch & with Scikit-learn
+#  Machine Learning Algorithms: From Scratch & with Scikit-learn
 
 This repository contains clean and well-explained implementations of classic **Machine Learning algorithms** using:
 
-- 🧠 **From Scratch** (with NumPy, no ML libraries)
-- ⚙️ **With Scikit-learn** (industry-standard library)
+-  **From Scratch** (with NumPy, no ML libraries)
+-  **With Scikit-learn** (industry-standard library)
 
 Each algorithm includes:
-- ✅ Step-by-step explanation
-- 📈 Visualizations (if applicable)
-- 🔢 Dataset used
-- 📎 Comparison between scratch and library implementation
+-  Step-by-step explanation
+-  Visualizations (if applicable)
+-  Dataset used
+-  Comparison between scratch and library implementation
 
 ---
 
-## 📚 Algorithms Covered
+##  Algorithms Covered
 
 ### 🔹 Linear Models
 - [x] Simple Linear Regression
@@ -22,12 +22,12 @@ Each algorithm includes:
 - [ ] Stochastic Gradient Descent
 - [ ] Mini-Batch Gradient Descent
 - [ ] Ridge Regression
-- [ ] Lasso Regression
+- [ ] Lasso Regression -->
 
 ### 🔹 Classification
-- [ ] Logistic Regression
-- [ ] K-Nearest Neighbors (KNN)
-- [ ] Naive Bayes
+<!--- [ ] Logistic Regression -->
+- [x] K-Nearest Neighbors (KNN)
+<!-- - [ ] Naive Bayes
 - [ ] Decision Trees
 - [ ] Random Forest
 - [ ] Support Vector Machines (SVM)
